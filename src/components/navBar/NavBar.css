@@ -1,0 +1,23 @@
+header > div {
+    width: 100%;
+    box-sizing: border-box;
+    justify-content: space-around;
+    background-color: black;
+}
+
+.navBar-list{
+    display: flex;
+    list-style: none;
+}
+
+.container-logo {
+    float:left;
+    width: 80px;
+    background-color: black;
+}
+.container-logo img {
+    width: 100%;
+}
+
+
+
